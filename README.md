@@ -1,23 +1,17 @@
 # 🗝️ The Keymaker
 
-> **Protocol-grade infrastructure for the Bitcoin Power Law.**
+> **Non-custodial infrastructure for the Satoshi Standard.**
 
-I am the architect of **SATSrail**, a non-custodial payment layer built on the Lightning Network. My mission is the cryptographic delivery of value—ensuring that content and data remain sovereign, peer-to-peer, and untampered.
+I architect systems for the **automated delivery of value**. My work centers on the intersection of the Lightning Network and cryptographic access control—enabling the trustless exchange of data for sats.
 
-### 🛠️ The Forge
-* **Core:** Next.js, Node.js, Python, Ruby.
-* **Database:** MongoDB / Distributed Systems.
-* **Network:** Bitcoin Lightning (L402 / LSAT).
-* **Identity:** All commits are GPG-signed and verified.
-
----
-
-### 📡 Active Projects
-* **[SATSrail](https://satsrail.com)** - Infrastructure for payment-triggered content access.
-* **[SATSrail-Node](https://github.com/SatsRail/satsrail-node)** - The core SDK for non-custodial delivery.
+### 🛠️ The Stack
+* **L402 / LSAT:** Implementing programmable HTTP 402 Payment Required protocols.
+* **Non-Custodial:** Infrastructure designed for zero-party risk.
+* **Full Stack:** Next.js, Node.js, and multi-language SDKs (Python, Ruby).
 
 ---
 
-### 🛡️ Verification
-`GPG Fingerprint: A19B B862 6E04 A6C9`  
+### 📡 The Mission
+Through **SatsRail**, I am building the rails that allow developers to monetize content, APIs, and digital assets without intermediaries. 
+
 *Don't trust. Verify.*
