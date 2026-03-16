@@ -1,16 +1,23 @@
-## Hi there 👋
+# 🗝️ The Keymaker
 
-<!--
-**keymaker-protocol/keymaker-protocol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **Protocol-grade infrastructure for the Bitcoin Power Law.**
 
-Here are some ideas to get you started:
+I am the architect of **SATSrail**, a non-custodial payment layer built on the Lightning Network. My mission is the cryptographic delivery of value—ensuring that content and data remain sovereign, peer-to-peer, and untampered.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ The Forge
+* **Core:** Next.js, Node.js, Python, Ruby.
+* **Database:** MongoDB / Distributed Systems.
+* **Network:** Bitcoin Lightning (L402 / LSAT).
+* **Identity:** All commits are GPG-signed and verified.
+
+---
+
+### 📡 Active Projects
+* **[SATSrail](https://satsrail.com)** - Infrastructure for payment-triggered content access.
+* **[SATSrail-Node](https://github.com/SatsRail/satsrail-node)** - The core SDK for non-custodial delivery.
+
+---
+
+### 🛡️ Verification
+`GPG Fingerprint: A19B B862 6E04 A6C9`  
+*Don't trust. Verify.*
