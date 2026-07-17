@@ -1,4 +1,4 @@
-# 🗝️ The Keymaker
+# 🗝️ Keymaker-Protocol
 
 > **Non-custodial infrastructure for the Satoshi Standard.**
 
